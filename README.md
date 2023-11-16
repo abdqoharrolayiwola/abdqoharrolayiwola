@@ -1,0 +1,36 @@
+        { fullName: "ABD QOHARR OLAYIWOLA",
+        pronouns: ["He", "Him"],
+        nationality: "Nigerian",
+        jobStatus: ["Student & a front end developer,Graphics Designer, Logo Designer, Arabic Calligraphar"],
+        hobbies: ["Playing video games", "Playing Football", "Reading", "Solving Coding Challenges"],
+        techSack: ["CSS", "JavaScript", "HTML", "Bootstrap"],
+        isWorkingNow: false,
+        telephoneNumber: "+2348050896176",
+        socialMedias: ["LinkedIn", "WhatsApp", "Twitter"],
+        codingEnvironment: "Github",
+        nowLearning: "Full stack web development at Microverse",
+        lookingForNewOpportunities: true }
+   
+    🔭 I’m currently working on Front End development
+    🌱 I’m currently learning Web development
+    👯 I’m looking to collaborate on open-source projects
+    📫 How to reach me: - GitHub: <a href="https://github.com/abdqoharr">abdqoharrolayiwola</a>, Twitter: <a href="https://twitter.com/abdqoharr">abd qoharr olayiwola</a>
+    😄 Pronouns: he/his
+    💬 Ask me about anything, and I am happy to help
+
+    WhatsApp
+    <a href="https://wa.me/2348050896176">+2348050896176</a>
+
+    <h3>Facebook</h3>
+    <h5>ابن تاج الدين الشعراوى.</h5>
+
+    <h3>Twitter</h3>
+    <h5>OLAYIWOLA ABD QOHARR ABU HAAYYAN AS-SALAFY</h5>
+
+    E-mail
+    <a href="mailto:olaiyolaabdqoharr226@gmail.com">olaiyolaabdqoharr226@gmail.com</a>
+
+<!---
+abdqoharrolayiwola/abdqoharrolayiwola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
